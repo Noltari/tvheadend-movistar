@@ -1,0 +1,39 @@
+{
+	"complete": 1,
+	"modules": [
+		{
+			"id": "eit",
+			"services": [
+				"028f1e25b587f2431df9a3daf62143a2",
+				"15cd6e81cda7d3c9a5050214b9adebd5",
+				"172b06cbc773c032eeebcf166e7d2bdf",
+				"239caff3f90a3f82c2e76f3645c0ad9e",
+				"2aea58d2a8fea3ff057b7bb5997318ac",
+				"4751a6f3238558951c2603dc7cd680e3",
+				"61b3f789be749f190caf9e1e46a7c818",
+				"7463d0666fe004723c72f5d2e4b4d7fa",
+				"78e4cdfe95dd6af0c0168a3f77a179ad",
+				"84e3450d4643d3a61dab28fa11020f7d",
+				"8cc48f94a127b0f872809be992955f83",
+				"9230b7c9e44f9760e7ace3194f63fd55",
+				"92e8639c1295bf29408c7886f80a0626",
+				"9f175225ea2d7c50a9d645a1790d12a5",
+				"a503e01457f92cc629c65c044d23a5c3",
+				"c121a431f57a81ede5ebdb03168b0666",
+				"c3a34931b7434664c096e0d163bda441",
+				"cdfd3df303fcd60d2168f3d1d8bad8a6",
+				"cf1d7e54035b1db68fa1cc3d2d4ec93f",
+				"cff26befe272d4b87eb9894f53d68683",
+				"d79ed519e73ed1c976e85fa1b10f43f4",
+				"dedcfce16fd6b0e8bfff2f28749a1727",
+				"e9b53697f2f30b17d79afac70075a074",
+				"f01cde4972afad712dbc8a12f3504473",
+				"f096eb82719bb762443bddd9e884c8dd",
+				"f116f561b46c6906da021d65dcf76b07",
+				"fc712e89f749bdd432ec3509b17853ac",
+				"fde0c66139143d445f50ec5bffd7a7f7",
+				"ffe1e2064604a3d90ede65bccc13b3d2"
+			]
+		}
+	]
+}

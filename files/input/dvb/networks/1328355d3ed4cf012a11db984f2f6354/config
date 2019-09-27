@@ -1,0 +1,18 @@
+{
+	"orbital_pos": "19.2E",
+	"enabled": true,
+	"networkname": "Astra",
+	"pnetworkname": "ASTRA 1",
+	"nid": 0,
+	"autodiscovery": 1,
+	"bouquet": false,
+	"skipinitscan": true,
+	"idlescan": false,
+	"sid_chnum": false,
+	"ignore_chnum": false,
+	"satip_source": 0,
+	"charset": "ISO-8859-1",
+	"localtime": 0,
+	"wizard": false,
+	"class": "dvb_network_dvbs"
+}

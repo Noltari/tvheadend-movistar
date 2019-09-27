@@ -1,0 +1,17 @@
+{
+	"complete": 1,
+	"modules": [
+		{
+			"id": "eit",
+			"services": [
+				"0d7415bb315068f38a179ee9a2822c61",
+				"3b4fafe39728539d86a92651b12a54af",
+				"46b537dbae561d371657adbb2fc16a2d",
+				"6c88df9df0b32f0dd62cae50f544c3dc",
+				"a77bd192a8e3f52e6da54ad431869c9b",
+				"aa65d94fc8d8592cfd6d48aeb7567836",
+				"ffff6f89f08fc202895a5e90260a4a6b"
+			]
+		}
+	]
+}

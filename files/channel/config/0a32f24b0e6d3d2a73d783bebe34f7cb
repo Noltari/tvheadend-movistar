@@ -1,0 +1,18 @@
+{
+	"enabled": true,
+	"name": "RT Esp HD",
+	"number": 119,
+	"icon": "picon://1_0_1_18EE_3F4_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"355841657427bc0485fbb43b55f01b79"
+	],
+	"tags": [
+		"ed683e8a6207096dc05d9033f80a32da",
+		"11d36b2d412cbf59cee0ab16833094e9"
+	],
+	"bouquet": ""
+}

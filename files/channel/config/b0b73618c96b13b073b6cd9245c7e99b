@@ -1,0 +1,19 @@
+{
+	"enabled": true,
+	"name": "Disney+",
+	"number": 29,
+	"icon": "picon://1_0_1_7607_408_1_C00000_0_0_0.png",
+	"epgauto": true,
+	"epglimit": 0,
+	"dvr_pre_time": 0,
+	"dvr_pst_time": 0,
+	"epg_running": -1,
+	"services": [
+		"fb0aee2eb196681a37143f21a35207f7"
+	],
+	"tags": [
+		"ed683e8a6207096dc05d9033f80a32da",
+		"d3e9fc7f9bbda82266cda4d55d144137"
+	],
+	"bouquet": ""
+}

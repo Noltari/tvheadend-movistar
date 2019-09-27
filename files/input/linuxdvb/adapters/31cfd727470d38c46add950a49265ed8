@@ -1,0 +1,56 @@
+{
+	"rootpath": "/dev/dvb/adapter0",
+	"frontends": {
+		"DVB-S #0": {
+			"pids_max": 32,
+			"pids_use_all": true,
+			"powersave": false,
+			"tune_repeats": 0,
+			"skip_bytes": 0,
+			"ibuf_size": 188000,
+			"status_period": 1000,
+			"sig_multiplier": 100,
+			"snr_multiplier": 100,
+			"old_status": false,
+			"enabled": true,
+			"priority": 0,
+			"spriority": 0,
+			"displayname": "Montage Technology M88RS6000 #0 : DVB-S #0",
+			"ota_epg": true,
+			"initscan": true,
+			"idlescan": true,
+			"free_weight": 10,
+			"remove_scrambled": false,
+			"networks": [
+				"1328355d3ed4cf012a11db984f2f6354"
+			],
+			"linked": "e5a085a6869566982f950d78d39313fe",
+			"type": "DVB-S",
+			"uuid": "0f5d6bc60bd97c0811e69ea7bf716e3b",
+			"satconf": {
+				"type": "simple",
+				"early_tune": false,
+				"diseqc_repeats": 0,
+				"diseqc_full": false,
+				"lnb_poweroff": false,
+				"lnb_highvol": 0,
+				"elements": [
+					{
+						"enabled": true,
+						"priority": 0,
+						"networks": [
+							"1328355d3ed4cf012a11db984f2f6354"
+						],
+						"lnb_type": "Universal",
+						"uuid": "c63be2833a3f83d6aeed2e26a48b5e31",
+						"lnb_conf": {
+						}
+					}
+				],
+				"uuid": "d3e5f43dac49cd1b64e6a3d1cb1b86c9"
+			}
+		}
+	},
+	"ca_devices": {
+	}
+}

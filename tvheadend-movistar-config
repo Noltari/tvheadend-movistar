@@ -1,0 +1,10 @@
+FILES_DIR="$WORK_DIR/files"
+FILES_PERM_D=755
+FILES_PERM_F=644
+
+TVHEADEND_DIR="/home/hts/.hts/tvheadend"
+TVHEADEND_DIR_LIST="bouquet channel epggrab input"
+TVHEADEND_USER="hts"
+TVHEADEND_GROUP="video"
+TVHEADEND_PERM="700"
+TVHEADEND_SERVICE="tvheadend"

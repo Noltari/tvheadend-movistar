@@ -1,0 +1,19 @@
+{
+	"complete": 1,
+	"modules": [
+		{
+			"id": "psip"
+		},
+		{
+			"id": "eit",
+			"services": [
+				"2981f2d78da6932845cd2cda03c27295",
+				"9edde92b7592dcfb5f141ea0cb70665a",
+				"a4c0472330f1e5b15e948f19991fdc37",
+				"b86a6f3142ea01bf9802bc91e4dd9106",
+				"bc7fc1ad4187a30f146bf3271c1f2bf3",
+				"d4d0d139bb2d689d470238eca048ac5f"
+			]
+		}
+	]
+}

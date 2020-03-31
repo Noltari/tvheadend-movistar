@@ -1,5 +1,5 @@
 {
-	"channel_rename": false,
+	"channel_rename": true,
 	"channel_renumber": false,
 	"channel_reicon": false,
 	"epgdb_periodicsave": 1,

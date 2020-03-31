@@ -15,7 +15,7 @@
 	"source": "dvb-bouquet://dvbs,19.2E,0420,0021",
 	"services": {
 	},
-	"services_seen": 337,
+	"services_seen": 321,
 	"comment": "10817.5V in Satelite",
 	"lcn_off": 0
 }

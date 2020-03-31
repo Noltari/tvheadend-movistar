@@ -4,7 +4,7 @@
 	"networkname": "Astra",
 	"pnetworkname": "ASTRA 1",
 	"nid": 0,
-	"autodiscovery": 1,
+	"autodiscovery": 2,
 	"bouquet": false,
 	"skipinitscan": true,
 	"idlescan": false,

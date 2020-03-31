@@ -1,6 +1,5 @@
 {
 	"enabled": true,
-	"name": "LA 1 HD",
 	"number": 1,
 	"icon": "picon://1_0_19_7863_41A_1_C00000_0_0_0.png",
 	"epgauto": true,

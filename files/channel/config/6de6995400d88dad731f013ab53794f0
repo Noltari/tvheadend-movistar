@@ -1,6 +1,5 @@
 {
 	"enabled": true,
-	"name": "BBC World News Europe HD",
 	"number": 113,
 	"icon": "picon://1_0_1_1389_3EA_1_C00000_0_0_0.png",
 	"epgauto": true,

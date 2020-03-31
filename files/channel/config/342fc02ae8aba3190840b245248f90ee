@@ -1,6 +1,5 @@
 {
 	"enabled": true,
-	"name": "RT France HD",
 	"number": 126,
 	"icon": "picon://1_0_1_18EF_3F4_1_C00000_0_0_0.png",
 	"epgauto": true,

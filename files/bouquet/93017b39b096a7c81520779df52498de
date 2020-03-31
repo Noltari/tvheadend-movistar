@@ -15,7 +15,7 @@
 	"source": "dvb-bouquet://dvbs,19.2E,03F2,1080",
 	"services": {
 	},
-	"services_seen": 6,
+	"services_seen": 3,
 	"comment": "11332.25H in Astra",
 	"lcn_off": 0
 }

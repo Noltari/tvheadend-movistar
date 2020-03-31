@@ -1,6 +1,5 @@
 {
 	"enabled": true,
-	"name": "Disney+",
 	"number": 29,
 	"icon": "picon://1_0_1_7607_408_1_C00000_0_0_0.png",
 	"epgauto": true,

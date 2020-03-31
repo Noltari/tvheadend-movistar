@@ -15,7 +15,7 @@
 	"source": "dvb-bouquet://dvbs,19.2E,0412,0021",
 	"services": {
 	},
-	"services_seen": 312,
+	"services_seen": 324,
 	"comment": "11097V in Astra",
 	"lcn_off": 0
 }

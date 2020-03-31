@@ -1,6 +1,5 @@
 {
 	"enabled": true,
-	"name": "CUATRO HD",
 	"number": 4,
 	"icon": "picon://1_0_19_7535_426_1_C00000_0_0_0.png",
 	"epgauto": true,

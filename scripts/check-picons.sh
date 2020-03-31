@@ -29,7 +29,9 @@ main()
 		local path=${icon#"picon://"}
 
 		if [ ! -f $picons/$path ]; then
-			echo "Picon $path not found"
+			local number=$(cat $file | python3 -c "import sys, json; print(json.load(sys.stdin)['number'])")
+
+			echo "Channel[$number]: Picon $path not found"
 		else
 			echo $path >> $TMP_LIST
 		fi
